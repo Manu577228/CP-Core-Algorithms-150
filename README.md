@@ -2,7 +2,7 @@
   <img src="https://i.postimg.cc/Y2YtXjrn/Bharadwaj.jpg" width="180" style="border-radius:50%;" />
 </p>
 
-<h1 align="center">🚀 CP Core Algorithms 150 (Java Edition)</h1>
+<h1 align="center">🚀 CP Core Algorithms 150 (Java Edition) !</h1>
 
 <p align="center">
   <b>A comprehensive Java library of 150 core algorithms for Competitive Programming, LeetCode, and SDE 1/2/3 interview preparation.</b>
