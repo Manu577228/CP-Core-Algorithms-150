@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://wsrv.nl/?url=https://i.postimg.cc/Y2YtXjrn/Bharadwaj.jpg&w=180&h=180&fit=cover&mask=circle" width="150" alt="Bharadwaj" />
+  <img src="https://avatars.githubusercontent.com/u/102406248?v=4" width="450" alt="Bharadwaj" />
 </p>
 
 <h3 align="center">
